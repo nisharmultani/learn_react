@@ -2,7 +2,7 @@ import { Profile } from "./components/profile";
 
 const fullName = {
   name: "nsihar",
-  lastname: "multani",
+  lastname: "multan nidhdi",
 };
 const kvArray = [
   { key: 1, value: 10 },
